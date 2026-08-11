@@ -1,10 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on: A cloud-deployed Multimodal AI Educational Tool that turns lecture videos into interactive, timestamp-grounded chatbots with auto-generated quizzes and flashcards<br>
-👯 I'm looking to collaborate on: RAG pipelines, GraphRAG/Knowledge Graphs, and multimodal AI systems combining NLP + Computer Vision<br>
-🤝 I'm looking for help with: scaling video processing pipelines and structuring RAG retrieval for long-form multimodal content<br>
-🌱 I'm currently learning: Retrieval-Augmented Generation, vector databases (FAISS/Pinecone), and GraphRAG with Neo4j<br>
-💬 Ask me about: Flutter, classical ML, NLP pipelines, or multimodal AI systems<br>
-⚡ Fun fact: I built a full 2-player Flappy Bird clone in x86 Assembly for DOS
+ I'm currently working on: A cloud-deployed Multimodal AI Educational Tool that turns lecture videos into interactive, timestamp-grounded chatbots with auto-generated quizzes and flashcards<br>
+ I'm looking to collaborate on: RAG pipelines, GraphRAG/Knowledge Graphs, and multimodal AI systems combining NLP + Computer Vision<br>
+ I'm looking for help with: scaling video processing pipelines and structuring RAG retrieval for long-form multimodal content<br>
+ I'm currently learning: Retrieval-Augmented Generation, vector databases (FAISS/Pinecone), and GraphRAG with Neo4j<br>
+
 
 ## 🚀 Featured Projects
 - 🎭 **[BERT Sentiment Analysis](https://github.com/BilalAamir4/BERT-Sentiment-Analysis)** — Fine-tuned bert-base-uncased on IMDB, 88.88% accuracy, Streamlit frontend
